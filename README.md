@@ -29,6 +29,7 @@ Core SOC Skills Demonstrated
 
 Projects
 
+
 Digital Forensics & Incident Response
 
 	•	Memory analysis
@@ -63,12 +64,14 @@ Python Security Automation
 
 
 
+
 Learning Platforms
 
 	•	TryHackMe
 	•	Hands-on Labs
 	•	Practical Assignments
 	•	Real-world Case Studies
+
 
 
 
