@@ -8,7 +8,7 @@
 
 ## Objective
 
-Through 10 hands-on projects, detailed documentation, and TryHackMe SOC Level 1 training, I have built a strong practical foundation for a **Tier 1 SOC Analyst** role. My projects demonstrate real-world application of malware analysis, digital forensics, penetration testing, scripting, SIEM/Splunk querying, Snort rule writing, Wireshark packet analysis, and CTI enrichment — all mapped directly to SOC L1 responsibilities. I am ready to join a Security Operations Center where I can contribute to effective incident detection, rapid triage, and proactive threat mitigation while continuously growing as a cybersecurity professional.
+Through multiple different hands-on projects, detailed documentation, and TryHackMe SOC Level 1 training, I have built a strong practical foundation for a **Tier 1 SOC Analyst** role. My projects demonstrate real-world application of malware analysis, digital forensics, penetration testing, scripting, SIEM/Splunk querying, Snort rule writing, Wireshark packet analysis, and CTI enrichment — all mapped directly to SOC L1 responsibilities. I am ready to join a Security Operations Center where I can contribute to effective incident detection, rapid triage, and proactive threat mitigation while continuously growing as a cybersecurity professional.
 
 ## Skills
 
@@ -63,8 +63,13 @@ Through 10 hands-on projects, detailed documentation, and TryHackMe SOC Level 1 
 
 ## Certifications
 
-- **CompTIA Security+** — Foundational cybersecurity certification covering network security, compliance, and threat detection.
-- **TryHackMe SOC Level 1** — Hands-on certificate focused on Security Operations Center workflows, monitoring, and incident handling.
+<a href="https://drive.google.com/file/d/1ypn_l_EPyDEkgVO_gSaEBxqIug5lkfv1/view?usp=drivesdk" target="_blank">
+  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
+<a href="https://drive.google.com/file/d/1eMzUzLb4AtzZDlUk0JR5SCPmEsqx33M0/view?usp=drivesdk" target="_blank">
+  <img src="https://img.shields.io/badge/-SOC%20Level%201-00BFFF?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+</a>
+
 
 ## Projects
 - Project 1: [Insert Project Name Here] — (short 1-line description + link to folder/repo)
