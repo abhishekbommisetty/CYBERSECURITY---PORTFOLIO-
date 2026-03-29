@@ -23,7 +23,10 @@ This project covers two Python scripting tools built for security automation —
 **Libraries & Technologies:**
 `Python` · `Scapy` · `Socket` · `Paramiko` · `Requests` · `Cryptography` · `Threading`
 
-**Full Visual Report:** [Download PDF Report →](Python_Scripting_Report.pdf)
+**Full Visual Report:** [Download PDF Report Case 1 →](https://github.com/abhishekbommisetty/CYBERSECURITY---PORTFOLIO-/blob/36b6eccc5c687455260d77e70ea5784ac3a74678/python-scripting/Script%20for%20network-recon.pdf)
+
+**Full Visual Report:** [Download PDF Report Case 2 →]
+
 
 -----
 
