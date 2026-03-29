@@ -20,7 +20,7 @@ This project simulates a real SOC L1 analyst shift, investigating **3 high-prior
 **Tools & Technologies:**
 `Splunk SIEM` · `SPL` · `Linux secure logs` · `Sysmon (EventCode 3)` · `Windows Event Logs` · `MITRE ATT&CK`
 
-**Full Visual Report:** [Download PDF Report →](SIEM%20-%20ANALYSIS%20USING%20SPLUNK.pdf)
+**Full Visual Report:** [Download PDF Report →](https://github.com/abhishekbommisetty/CYBERSECURITY---PORTFOLIO-/blob/main/SOC-SIEM-Analysis/SIEM%20-%20ANALYSIS%20USING%20SPLUNK.pdf)
 
 -----
 
@@ -76,13 +76,8 @@ index="linux-alert" sourcetype="linux_secure" 10.10.242.248
 
 -----
 
-### Screenshot
 
-> *Splunk results showing chronological failed → accepted password sequence for IP 10.10.242.248*
 
-![Case 1 - Brute Force SPL Results](screenshots/case1_bruteforce.png)
-
------
 
 ### Actions & Recommendations
 
@@ -152,17 +147,8 @@ index=task4 "schtasks" OR "scheduled task"
 
 -----
 
-### Screenshots
 
-> *Sysmon EventCode 3 result showing SharePsInf.exe connecting to port 5678*
 
-![Case 2 - Network Connection](screenshots/case2_network_connection.png)
-
-> *Schtasks query result showing scheduled task creation commands*
-
-![Case 2 - Scheduled Task](screenshots/case2_scheduled_task.png)
-
------
 
 ### Actions & Recommendations
 
@@ -273,25 +259,6 @@ index=task5 (cron OR crontab OR "reverse shell" OR nc OR netcat OR "ssh -R")
 
 -----
 
-### Screenshots
-
-> *useradd remote-ssh event showing full user creation log entry*
-
-![Case 3 - User Creation](screenshots/case3_useradd.png)
-
-> *Privilege escalation results showing jack-brown → root escalation events*
-
-![Case 3 - Privilege Escalation](screenshots/case3_privesc.png)
-
-> *SSH login results showing accepted sessions from 10.14.54.32*
-
-![Case 3 - SSH Login](screenshots/case3_ssh_login.png)
-
-> *Persistence artifacts query showing cron, netcat, and ssh -R commands*
-
-![Case 3 - Persistence](screenshots/case3_persistence.png)
-
------
 
 ### Actions & Recommendations
 
@@ -319,7 +286,7 @@ Each case was investigated from alert to actionable recommendation, demonstratin
 
 -----
 
-> **Note:** SPL queries documented represent the key investigative steps. Additional queries were executed during investigation for validation and correlation — only the most analytically significant are included here for clarity. 
+> **⚠️Note:** SPL queries documented represent the key investigative steps. Additional queries were executed during investigation for validation and correlation — only the most analytically significant are included here for clarity. 
 
 
 
