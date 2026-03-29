@@ -24,7 +24,7 @@ This project covers two penetration testing assessments — a web application se
 
 **Full Visual Report:** [Download PDF Report Case 1 →](https://github.com/abhishekbommisetty/CYBERSECURITY---PORTFOLIO-/blob/3f71b234ca832211c9aa34e6c227804d0159ad82/pen-testing/pen-test%20on%20webgoat%20%26%20juice%20shop.pdf)
 
-**Full Visual Report:** [Download PDF Report Case 2 →]
+**Full Visual Report:** [Download PDF Report Case 2 →](https://github.com/abhishekbommisetty/CYBERSECURITY---PORTFOLIO-/blob/bc633235cddb5b3a4b6a2e8b9e3c714405d4fc4c/pen-testing/pen-testing%20metasploitable.pdf)
 
 -----
 
