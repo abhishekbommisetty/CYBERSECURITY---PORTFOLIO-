@@ -12,7 +12,7 @@ This project covers the design and implementation of a Cybersecurity GRC program
 
 **Full Project Report:** [Download PDF Paper 1 →](https://github.com/abhishekbommisetty/CYBERSECURITY---PORTFOLIO-/blob/8855ee97a8a2a04d50c3248cedf0e28456221869/grc-documentation/GRC%20research%20paper%20-%20cybersecurity%20governance%2C%20risk%20management%20and%20compliance%20in%20an%20organisation.pdf)
 
-**Full Project Report:** [Download PDF Paper 2 →]
+**Full Project Report:** [Download PDF Paper 2 →](https://github.com/abhishekbommisetty/CYBERSECURITY---PORTFOLIO-/blob/c749e903236e271e901631b7c4e3bbc7621b24a7/grc-documentation/GRC%20role%20of%20frameworks%20paper.pdf)
 
 -----
 
