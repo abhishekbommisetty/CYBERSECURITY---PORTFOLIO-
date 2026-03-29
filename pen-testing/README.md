@@ -22,7 +22,9 @@ This project covers two penetration testing assessments — a web application se
 **Tools & Technologies:**
 `Nmap` · `Metasploit` · `Burp Suite` · `OpenVAS` · `Nessus` · `OWASP Juice Shop` · `OWASP WebGoat` · `Metasploitable 2` · `Metasploitable 3`
 
-**Full Visual Report:** [Download PDF Report →](Penetration_Testing_Report.pdf)
+**Full Visual Report:** [Download PDF Report Case 1 →](https://github.com/abhishekbommisetty/CYBERSECURITY---PORTFOLIO-/blob/3f71b234ca832211c9aa34e6c227804d0159ad82/pen-testing/pen-test%20on%20webgoat%20%26%20juice%20shop.pdf)
+
+**Full Visual Report:** [Download PDF Report Case 2 →]
 
 -----
 
