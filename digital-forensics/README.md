@@ -22,9 +22,10 @@ This project covers two DFIR investigations — memory forensics malware analysi
 **Tools & Technologies:**
 `Volatility Framework` · `Autopsy` · `VirusTotal` · `Windows Registry Analysis` · `Steganography Detection` · `TrueCrypt`
 
-**Full Visual Report:** [Download PDF Report →](https://github.com/abhishekbommisetty/CYBERSECURITY---PORTFOLIO-/blob/e59930ddf363fbc76c0264a81d35aad99e842ae0/digital-forensics/DFIR%20-%20NARCOS%20CASE.pdf)
+**Full Visual Report:** [Download PDF Report NARCOS CASE →](https://github.com/abhishekbommisetty/CYBERSECURITY---PORTFOLIO-/blob/e59930ddf363fbc76c0264a81d35aad99e842ae0/digital-forensics/DFIR%20-%20NARCOS%20CASE.pdf)
 
-**Full Visual Report:** [Download PDF Report →]
+**Full Visual Report:** [Download PDF Report MEMORY FORENSIC ANAYLSIS→](https://github.com/abhishekbommisetty/CYBERSECURITY---PORTFOLIO-/blob/2a5b53316c776df2db43892622ef1fd02cf42a77/digital-forensics/DFIR-memory%20forensic%20analysis.pdf)
+
 -----
 
 ## Investigation Summary Table
