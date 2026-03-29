@@ -10,7 +10,9 @@
 
 This project covers the design and implementation of a Cybersecurity GRC program for an enterprise environment. The work focuses on establishing a governance structure, conducting risk assessments, and mapping organizational controls to regulatory compliance requirements — using internationally recognized frameworks throughout.
 
-**Full Project Report:** [Download PDF →](GRC_Implementation_Report.pdf)
+**Full Project Report:** [Download PDF Paper 1 →](https://github.com/abhishekbommisetty/CYBERSECURITY---PORTFOLIO-/blob/8855ee97a8a2a04d50c3248cedf0e28456221869/grc-documentation/GRC%20research%20paper%20-%20cybersecurity%20governance%2C%20risk%20management%20and%20compliance%20in%20an%20organisation.pdf)
+
+**Full Project Report:** [Download PDF Paper 2 →]
 
 -----
 
