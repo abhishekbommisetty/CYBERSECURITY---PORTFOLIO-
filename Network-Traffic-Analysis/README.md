@@ -5,6 +5,8 @@
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-Mapped-blue?style=for-the-badge)
 ![SOC](https://img.shields.io/badge/SOC_L1-Analyst-FF4500?style=for-the-badge)
 
+
+
 -----
 
 ## Project Overview
@@ -27,6 +29,7 @@ This project covers three independent SOC L1 investigations across network traff
 
 **Full Visual Report:** [Download PDF Report FTP →](https://github.com/abhishekbommisetty/CYBERSECURITY---PORTFOLIO-/blob/9c742b27110c87d2365cad14bf5a6e199120c90c/Network-Traffic-Analysis/%20FTP%20Credential%20Interception.pdf)
 
+**Full Visual Report:** [Download PDF Report WIN- SECURITY LOGS →](https://github.com/abhishekbommisetty/CYBERSECURITY---PORTFOLIO-/blob/2409a65ba8a9440ff15effb2c42ed2c171a1a249/Network-Traffic-Analysis/Windows%20Security%20Log%20Investigation%20.pdf)
 
 -----
 
