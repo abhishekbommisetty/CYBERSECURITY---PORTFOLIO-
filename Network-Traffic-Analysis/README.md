@@ -22,7 +22,7 @@ This project covers three independent SOC L1 investigations across network traff
 **Tools & Technologies:**
 `Wireshark` · `Tcpdump` · `PowerShell` · `Windows Event Viewer` · `Arpspoof` · `Linux CLI`
 
-**Full Visual Report:** [Download PDF Report →](Network_Traffic_Analysis_Report.pdf)
+**Full Visual Report:** [Download PDF Report →](https://github.com/abhishekbommisetty/CYBERSECURITY---PORTFOLIO-/blob/ffb39e5c4e8e96d4d608eb0f5501c17ee0621e4c/Network-Traffic-Analysis/ARP%20Spoofing%20%26%20MITM%20Detection.pdf)
 
 -----
 
