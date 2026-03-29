@@ -10,7 +10,7 @@
 
 An academic web application project building a secure online banking portal with multi-layer authentication. The core design separates login credentials from transaction authorization — reducing the risk of unauthorized transactions even when login credentials are compromised.
 
-**Full Project Report:** [Download PDF →](Banking_Portal_Report.pdf)
+**Full Project Report:** [Download PDF →](https://github.com/abhishekbommisetty/CYBERSECURITY---PORTFOLIO-/blob/79f4bb639ecdba65af40f43c9e9223d2e32c1081/bachelors-projects/Online-Banking-security%20Document%20.pdf)
 
 -----
 
