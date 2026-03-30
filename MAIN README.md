@@ -126,7 +126,7 @@ My goal is to join a Security Operations Center as a **Tier 1 SOC Analyst** wher
 
 |# |Project                                                               |Description                                                                                                                                                                                   |
 |--|----------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|12 |[Online Banking Portal — Secure Transaction System](./https://github.com/abhishekbommisetty/CYBERSECURITY---PORTFOLIO-/tree/d67d91f921d3e441897c4a0a46d81e0a2b1d1aa2/bachelors-projects/)|Built a web banking application with dual-password architecture and grid-based debit card verification — separating login authentication from transaction authorization                       |
+|12 |[Online Banking Portal — Secure Transaction System](https://github.com/abhishekbommisetty/CYBERSECURITY---PORTFOLIO-/tree/d67d91f921d3e441897c4a0a46d81e0a2b1d1aa2/bachelors-projects)|Built a web banking application with dual-password architecture and grid-based debit card verification — separating login authentication from transaction authorization                       |
 
 
 -----
